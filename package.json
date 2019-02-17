@@ -1,0 +1,23 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcyenikoylu/qr-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcyenikoylu/qr-code/issues"
+  },
+  "homepage": "https://github.com/mcyenikoylu/qr-code#readme",
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-qr-reader": "^2.1.2"
+  }
+}
